@@ -1,0 +1,90 @@
+[INFO] 15:42:55:217 kernel.log/(6006:6006): Kernel inicializado, esperando a recibir a la consola en el PUERTO 9120.
+[INFO] 15:48:19:031 kernel.log/(6801:6801): Kernel inicializado, esperando a recibir a la consola en el PUERTO 8000.
+[INFO] 15:48:22:230 kernel.log/(6801:6801): Cliente conectado (a KERNEL)
+
+[WARNING] 15:48:22:230 kernel.log/(6801:6801): Operacion desconocida 
+
+[INFO] 15:48:22:230 kernel.log/(6801:6801): Cliente conectado (a KERNEL)
+
+[ERROR] 15:48:22:230 kernel.log/(6801:6801): Error al escuchar clientes... Finalizando servidor 
+
+[ERROR] 15:48:22:230 kernel.log/(6801:6801): Cerrando el módulo Kernel
+[INFO] 15:51:00:065 kernel.log/(6845:6845): Kernel inicializado, esperando a recibir a la consola en el PUERTO 8000.
+[INFO] 15:51:04:364 kernel.log/(6845:6845): Cliente conectado (a KERNEL)
+
+[WARNING] 15:51:04:364 kernel.log/(6845:6845): Operacion desconocida 
+
+[INFO] 15:51:04:364 kernel.log/(6845:6845): Cliente conectado (a KERNEL)
+
+[ERROR] 15:51:04:364 kernel.log/(6845:6845): Error al escuchar clientes... Finalizando servidor 
+
+[ERROR] 15:51:04:364 kernel.log/(6845:6845): Cerrando el módulo Kernel
+[INFO] 20:08:26:591 kernel.log/(54663:54663): Kernel inicializado, esperando a recibir a la consola en el PUERTO 8000.
+[INFO] 20:08:34:219 kernel.log/(54663:54663): Cliente conectado (a KERNEL)
+
+[WARNING] 20:09:24:071 kernel.log/(54663:54663): Operacion desconocida 
+
+[INFO] 20:09:31:423 kernel.log/(54679:54679): Kernel inicializado, esperando a recibir a la consola en el PUERTO 8000.
+[INFO] 20:10:45:293 kernel.log/(54679:54679): Cliente conectado (a KERNEL)
+
+[WARNING] 20:11:06:917 kernel.log/(54679:54679): Operacion desconocida 
+
+[INFO] 16:48:07:412 kernel.log/(67929:67929): Kernel inicializado, esperando a recibir a la consola en el PUERTO 8000.
+[INFO] 16:49:10:182 kernel.log/(67929:67929): Cliente conectado (a KERNEL)
+
+[WARNING] 16:50:09:877 kernel.log/(67929:67929): Operacion desconocida 
+
+[INFO] 16:50:56:034 kernel.log/(68141:68141): Kernel inicializado, esperando a recibir a la consola en el PUERTO 8000.
+[INFO] 16:51:14:650 kernel.log/(68141:68141): Cliente conectado (a KERNEL)
+
+[WARNING] 16:51:19:773 kernel.log/(68141:68141): Operacion desconocida 
+
+[INFO] 17:34:48:195 kernel.log/(74967:74967): Kernel inicializado, esperando a recibir a la consola en el PUERTO 8000.
+[INFO] 17:35:05:674 kernel.log/(74967:74967): Cliente conectado (a KERNEL)
+
+[INFO] 17:37:27:697 kernel.log/(74967:74967): 
+[INFO] 17:47:38:663 kernel.log/(75548:75548): Kernel inicializado, esperando a recibir a la consola en el PUERTO 8000.
+[INFO] 17:47:48:832 kernel.log/(75548:75548): Cliente conectado (a KERNEL)
+
+[WARNING] 17:47:51:862 kernel.log/(75548:75548): 
+[INFO] 18:05:20:756 kernel.log/(37133:37133): Kernel inicializado, esperando a recibir a la consola en el PUERTO 8000.
+[INFO] 18:12:09:566 kernel.log/(37391:37391): Kernel inicializado, esperando a recibir a la consola en el PUERTO 8000.
+[INFO] 18:14:01:453 kernel.log/(37531:37531): Kernel inicializado, esperando a recibir a la consola en el PUERTO 8000.
+[INFO] 18:16:20:441 kernel.log/(37531:37531): Cliente conectado (a KERNEL)
+
+[INFO] 18:16:20:441 kernel.log/(37531:37531): Me llegó una Consola
+[INFO] 18:16:20:441 kernel.log/(37531:37531): Consola deserializada, se arma el PCB a continuación
+[INFO] 18:16:20:441 kernel.log/(37531:37531): PCB id[1000] armada, agregando a cola NEW
+[INFO] 18:16:20:441 kernel.log/(37531:37531): PCB id[1000] ingresa a NEW
+[INFO] 18:16:20:441 kernel.log/(37531:37531): PCB id[1000]
+[INFO] 18:16:20:441 kernel.log/(37531:37536): PCB id[1000] ingresa a READY desde NEW
+[INFO] 18:16:20:441 kernel.log/(37531:37533): PCB id[1000] saliendo de Cola de Ready por FIFO para ejecutar.
+[INFO] 18:16:20:441 kernel.log/(37531:37533): PCB id[1000] ingresa a EXECUTE
+[INFO] 18:16:20:441 kernel.log/(37531:37534): PCB id[1000] enviada a CPU
+[ERROR] 18:17:12:760 kernel.log/(37531:37534): Instrucción desconocida, ocurrió un error
+[INFO] 18:25:03:682 kernel.log/(37810:37810): Kernel inicializado, esperando a recibir a la consola en el PUERTO 8000.
+[INFO] 18:25:17:644 kernel.log/(37810:37810): Cliente conectado (a KERNEL)
+
+[INFO] 18:25:17:644 kernel.log/(37810:37810): Me llegó una Consola
+[INFO] 18:25:17:644 kernel.log/(37810:37810): Consola deserializada, se arma el PCB a continuación
+[INFO] 18:25:17:644 kernel.log/(37810:37810): PCB id[1000] armada, agregando a cola NEW
+[INFO] 18:25:17:644 kernel.log/(37810:37810): PCB id[1000] ingresa a NEW
+[INFO] 18:25:17:644 kernel.log/(37810:37810): PCB id[1000]
+[INFO] 18:25:17:644 kernel.log/(37810:37815): PCB id[1000] ingresa a READY desde NEW
+[INFO] 18:25:17:645 kernel.log/(37810:37812): PCB id[1000] saliendo de Cola de Ready por FIFO para ejecutar.
+[INFO] 18:25:17:645 kernel.log/(37810:37812): PCB id[1000] ingresa a EXECUTE
+[INFO] 18:25:17:645 kernel.log/(37810:37813): PCB id[1000] enviada a CPU
+[ERROR] 18:25:40:408 kernel.log/(37810:37813): Instrucción desconocida, ocurrió un error
+[INFO] 18:30:44:891 kernel.log/(38305:38305): Kernel inicializado, esperando a recibir a la consola en el PUERTO 8000.
+[INFO] 18:30:49:620 kernel.log/(38305:38305): Cliente conectado (a KERNEL)
+
+[INFO] 18:30:49:620 kernel.log/(38305:38305): Me llegó una Consola
+[INFO] 18:30:49:620 kernel.log/(38305:38305): Consola deserializada, se arma el PCB a continuación
+[INFO] 18:30:49:620 kernel.log/(38305:38305): PCB id[1000] armada, agregando a cola NEW
+[INFO] 18:30:49:620 kernel.log/(38305:38305): PCB id[1000] ingresa a NEW
+[INFO] 18:30:49:620 kernel.log/(38305:38305): PCB id[1000]
+[INFO] 18:30:49:620 kernel.log/(38305:38310): PCB id[1000] ingresa a READY desde NEW
+[INFO] 18:30:49:620 kernel.log/(38305:38307): PCB id[1000] saliendo de Cola de Ready por FIFO para ejecutar.
+[INFO] 18:30:49:620 kernel.log/(38305:38307): PCB id[1000] ingresa a EXECUTE
+[INFO] 18:30:49:620 kernel.log/(38305:38308): PCB id[1000] enviada a CPU
+[ERROR] 18:31:21:388 kernel.log/(38305:38308): Instrucción desconocida, ocurrió un error
